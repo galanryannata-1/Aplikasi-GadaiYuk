@@ -1,7 +1,7 @@
 ## ⚠️ Important Note
 Make sure to also **download and run the Admin_GadaiYuk** application, as it is connected to this user app for processing and managing pawn approvals, updates, and monitoring.
 
-# gadaiyuk_terbaru
+# gadaiyuk
 
 A new Flutter project.
 
